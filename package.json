@@ -1,0 +1,23 @@
+{
+  "name": "xlog",
+  "version": "1.0.0",
+  "description": "logger from xitloop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loop-partha/xlog.git"
+  },
+  "keywords": [
+    "logger",
+    "logging"
+  ],
+  "author": "parthasarathy <partha@xitloop.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loop-partha/xlog/issues"
+  },
+  "homepage": "https://github.com/loop-partha/xlog#readme"
+}
